@@ -5,7 +5,7 @@
   "name": "区块连锁 ChunkChain",
   "description": "挖掉一个方块后，以它在区块内的相对位置为模板，在 N×N 区块范围内同位置连锁挖掘（不限方块种类），原版掉落物原地掉落。",
   "authors": ["汐"],
-  "license": "MIT",
+  "license": "Unlicense",
   "environment": "*",
   "entrypoints": {
     "main": ["dev.fish.chunkchain.ChunkChain"],
